@@ -6,7 +6,7 @@ source https://nuget.pkg.github.com/fc1943s/index.json username: "%GITHUB_ACTOR%
 
 nuget FSharp.Core >= 5.0 prerelease
 
-nuget FsCore ~> 0.0 prerelease
+github J3T4R0/FsCore:9cf1477f0f6944ecd490457ddc0fa956516caba3
 
 // FsJs
 nuget Fable.DateFunctions ~> 3.8
